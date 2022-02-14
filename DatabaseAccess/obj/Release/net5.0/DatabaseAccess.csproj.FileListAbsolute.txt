@@ -1,0 +1,30 @@
+C:\Users\USER\Desktop\Capstone Project\API\DatabaseAccess\obj\Release\net5.0\DatabaseAccess.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Capstone Project\API\DatabaseAccess\obj\Release\net5.0\DatabaseAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Capstone Project\API\DatabaseAccess\obj\Release\net5.0\DatabaseAccess.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Capstone Project\API\DatabaseAccess\obj\Release\net5.0\DatabaseAccess.AssemblyInfo.cs
+C:\Users\USER\Desktop\Capstone Project\API\DatabaseAccess\obj\Release\net5.0\DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Capstone Project\API\DatabaseAccess\bin\Release\net5.0\DatabaseAccess.deps.json
+C:\Users\USER\Desktop\Capstone Project\API\DatabaseAccess\bin\Release\net5.0\DatabaseAccess.runtimeconfig.json
+C:\Users\USER\Desktop\Capstone Project\API\DatabaseAccess\bin\Release\net5.0\DatabaseAccess.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Capstone Project\API\DatabaseAccess\bin\Release\net5.0\DatabaseAccess.dll
+C:\Users\USER\Desktop\Capstone Project\API\DatabaseAccess\bin\Release\net5.0\ref\DatabaseAccess.dll
+C:\Users\USER\Desktop\Capstone Project\API\DatabaseAccess\bin\Release\net5.0\DatabaseAccess.pdb
+C:\Users\USER\Desktop\Capstone Project\API\DatabaseAccess\obj\Release\net5.0\DatabaseAccess.dll
+C:\Users\USER\Desktop\Capstone Project\API\DatabaseAccess\obj\Release\net5.0\ref\DatabaseAccess.dll
+C:\Users\USER\Desktop\Capstone Project\API\DatabaseAccess\obj\Release\net5.0\DatabaseAccess.pdb
+C:\Users\USER\Desktop\Capstone Project\API\DatabaseAccess\obj\Release\net5.0\DatabaseAccess.genruntimeconfig.cache
+C:\Users\USER\Desktop\APIBackUp\DatabaseAccess\bin\Release\net5.0\DatabaseAccess.deps.json
+C:\Users\USER\Desktop\APIBackUp\DatabaseAccess\bin\Release\net5.0\DatabaseAccess.runtimeconfig.json
+C:\Users\USER\Desktop\APIBackUp\DatabaseAccess\bin\Release\net5.0\DatabaseAccess.runtimeconfig.dev.json
+C:\Users\USER\Desktop\APIBackUp\DatabaseAccess\bin\Release\net5.0\DatabaseAccess.dll
+C:\Users\USER\Desktop\APIBackUp\DatabaseAccess\bin\Release\net5.0\ref\DatabaseAccess.dll
+C:\Users\USER\Desktop\APIBackUp\DatabaseAccess\bin\Release\net5.0\DatabaseAccess.pdb
+C:\Users\USER\Desktop\APIBackUp\DatabaseAccess\obj\Release\net5.0\DatabaseAccess.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\APIBackUp\DatabaseAccess\obj\Release\net5.0\DatabaseAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\APIBackUp\DatabaseAccess\obj\Release\net5.0\DatabaseAccess.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\APIBackUp\DatabaseAccess\obj\Release\net5.0\DatabaseAccess.AssemblyInfo.cs
+C:\Users\USER\Desktop\APIBackUp\DatabaseAccess\obj\Release\net5.0\DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\APIBackUp\DatabaseAccess\obj\Release\net5.0\DatabaseAccess.dll
+C:\Users\USER\Desktop\APIBackUp\DatabaseAccess\obj\Release\net5.0\ref\DatabaseAccess.dll
+C:\Users\USER\Desktop\APIBackUp\DatabaseAccess\obj\Release\net5.0\DatabaseAccess.pdb
+C:\Users\USER\Desktop\APIBackUp\DatabaseAccess\obj\Release\net5.0\DatabaseAccess.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\USER\Desktop\APIBackUp\CarWorldAPI\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-01-14T15:57:39.5521243Z;True|2022-01-14T22:43:28.5856489+07:00;False|2022-01-14T22:42:43.4146566+07:00;True|2022-01-14T21:45:11.6769610+07:00;True|2022-01-14T21:35:20.0342968+07:00;True|2022-01-14T20:37:48.0114845+07:00;</History>
+  </PropertyGroup>
+</Project>
